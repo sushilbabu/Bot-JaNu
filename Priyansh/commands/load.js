@@ -11,5 +11,5 @@ module.exports.config = {
 module.exports.run = async function({ api, event, args,Threads, Users }) {
 delete require.cache[require.resolve(global.client.configPath)];
 global.config = require(global.client.configPath);
-return api.sendMessage("[OK] Reloading config...", event.threadID, event.messageID);    
+return api.sendMessage("[OK] BOSS SUSHIL BOSS RELOAD HORE HE JUST WAIT 😚...", event.threadID, event.messageID);    
 } 
