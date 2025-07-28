@@ -33,7 +33,7 @@ module.exports.run = async function({ api, event }) {
                 const fs = require("fs");
                 return api.sendMessage("Radhe Radhe Everyone🥀🥀", event.threadID, () => api.sendMessage({body:`🌺Sushil🦋🌺 CONNECTED«
 
-Bot Made By SHAAN KHAN K☘️
+Bot Made By SUSHIL YADAV☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
